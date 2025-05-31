@@ -2,9 +2,6 @@
 
 ![SOMA Logo](SOMA-logo-xs.png)
 
-
-
-
 This repository contains a collection of experiments for the SOMA (Self-Organizing Memory Architecture) project. SOMA is a cognitive architecture that implements self-organizing memory units for adaptive agent behavior.
 
 ## Project Structure
